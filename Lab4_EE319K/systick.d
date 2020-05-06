@@ -1,1 +1,0 @@
-.\systick.o: SysTick.s

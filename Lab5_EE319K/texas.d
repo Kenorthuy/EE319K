@@ -1,1 +1,0 @@
-.\texas.o: TExaS.c
